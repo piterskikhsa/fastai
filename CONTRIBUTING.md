@@ -116,3 +116,17 @@ $ uv lock
 $ make list
 ...
 ```
+
+## Схема проекта
+
+### Локальная
+[схема](https://gitlab.dvmn.org/root/fastapi-articles/-/wikis/fastai/backend_local_installation.drawio.png)
+![local-schema.png](docs/local-schema.png)
+
+### Продакшен
+[схема](https://gitlab.dvmn.org/root/fastapi-articles/-/wikis/fastai/backend_prod_installation.drawio.png)
+![prod-schema.png](docs/prod-schema.png)
+
+### Декомпозиция бэкенда по подсистемам
+[схема](https://gitlab.dvmn.org/root/fastapi-articles/-/wikis/fastai/backend_decomposition.drawio.png)
+![compositio-backend.png](docs/compositio-backend.png)
